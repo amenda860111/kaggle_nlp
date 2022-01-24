@@ -9,8 +9,8 @@ https://www.kaggle.com/c/feedback-prize-2021
 - [Key concepts in machine learning](https://towardsdatascience.com/machine-learning-basics-part-1-a36d38c7916)
 - [How to win Kaggle competitions](https://docs.google.com/document/d/14KDMW_o1yflcZd4E0PSlKxzI68zdHG20Qz6X5wmkgSA/edit?usp=sharing)
 - [Coding Environment](https://docs.google.com/presentation/d/1cYZACKaB7e2vRZAv8Oe1GcVy6U_xBeOoeptJsl3KZtI/edit?usp=sharing)
-- [Python Tutorial #1: Basics Numpy](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_1_basic_numpy.ipynb)
-- [Python Tutorial #2: Basics Pandas](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_2_basic_pandas.ipynb)
+- [Python Tutorial #1: Basics Numpy](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_1_basic_numpy.ipynb)
+- [Python Tutorial #2: Basics Pandas](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_2_basic_pandas.ipynb)
 - Homework 1
 	- coding homework from Python Tutorial #1 and #2 notebooks
 	- install python, numpy and pandas 
@@ -21,9 +21,9 @@ https://www.kaggle.com/c/feedback-prize-2021
 - Homework 1 due
 - Online 1 hour office hour (9 am - 10 am, Beijing time)
 - Video for Week 2 release
-- [Python Tutorial #3: Basic data processing and visualization](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_3_data_preprocessing_visualization.ipynb)
+- [Python Tutorial #3: Basic data processing and visualization](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_3_data_preprocessing_visualization.ipynb)
 - [Feature Engineering](https://docs.google.com/presentation/d/13gwvLolY0Ug_WKROeVYpHpblWhNhvmj3DskSxsu3Ta0/edit#slide=id.ge645f5e39a_0_55)
-- [Python Tutorial #4: Feature engineering](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_4_feature_engineering.ipynb)
+- [Python Tutorial #4: Feature engineering](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_4_feature_engineering.ipynb)
 - Homework 2
 	- coding homework from Python Tutorial #3 and #4 notebooks
 	- install code environment using .yml file
@@ -34,8 +34,8 @@ https://www.kaggle.com/c/feedback-prize-2021
 - Homework 2 due
 - Online 1 hour office hour (9 am - 10 am, Beijing time)
 - Video for Week 3 release
-- [Python Tutorial #5: Cross validation, grid search for parameter selection](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_5_cross_validation.ipynb)
-- [Python Tutorial #6: Linear regression, Ridge, Lasso models](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_6_linear%20models.ipynb)
+- [Python Tutorial #5: Cross validation, grid search for parameter selection](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_5_cross_validation.ipynb)
+- [Python Tutorial #6: Linear regression, Ridge, Lasso models](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_6_linear%20models.ipynb)
 - Homework 3
 	- coding homework from Python Tutorial #5 and #6 notebooks
 	- sign in competition and successfully submit one public notebook 
@@ -45,9 +45,9 @@ https://www.kaggle.com/c/feedback-prize-2021
 - Homework 3 due
 - Online 1 hour office hour (9 am - 10 am, Beijing time)
 - Video for Week 4 release
-- [Python Tutorial #7: Decision Trees](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_7_decision_tree.ipynb)
+- [Python Tutorial #7: Decision Trees](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_7_decision_tree.ipynb)
 - [Gini impurity in decision tree CART algorithm](https://victorzhou.com/blog/gini-impurity/)
-- [Python Tutorial #8: Xgboost & LightGBM](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_8_xgboost_LightGBM.ipynb)
+- [Python Tutorial #8: Xgboost & LightGBM](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_8_xgboost_LightGBM.ipynb)
 - [Intro to LightGBM & Xgboost](https://www.kaggle.com/prashant111/lightgbm-classifier-in-python)
 - [Gradient boosting explained](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
 - Homework 4: write your own python notebook for one of the following two problems (train-test split, data cleaning as well as cross validation for hyperparameter search)
@@ -60,11 +60,11 @@ https://www.kaggle.com/c/feedback-prize-2021
 - Online 1 hour office hour (9 am - 10 am, Beijing time)
 - Video for Week 5 release
 - [DNN](https://docs.google.com/presentation/d/1X5zYyAD5rEJv6gQVaBy2i_0ti0_JOVGcUMwxBRnzwYE/edit#slide=id.gde0cd20ce7_0_76)
-- [Python Tutorial #9: Deep NN](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_9_deep_NN.ipynb)
+- [Python Tutorial #9: Deep NN](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_9_deep_NN.ipynb)
 - [Stacking models](https://docs.google.com/presentation/d/1DBp7sNM__CKd38C6QdATjQhdj9lK5DD6UkZqx2FZ7gI/edit#slide=id.gebaeaeb46d_0_39)
-- [Python Tutorial #10: Stacking models by sklearn](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_10_stacking_models_sklearn.ipynb)
-- [Python Tutorial #11: Stacking models by any ML model](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_11_stacking_models_by%20ML.ipynb)
-- [Python Tutorial #12: Staching models by weighted average](https://github.com/amenda860111/kaggle-pet/blob/main/tutorial_12_stacking_models_by_weighted_average.ipynb)
+- [Python Tutorial #10: Stacking models by sklearn](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_10_stacking_models_sklearn.ipynb)
+- [Python Tutorial #11: Stacking models by any ML model](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_11_stacking_models_by%20ML.ipynb)
+- [Python Tutorial #12: Staching models by weighted average](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_12_stacking_models_by_weighted_average.ipynb)
 - Homework 5: 
 	- For the regression or classification problem you chose from last week, implement a deep NN model
 	- continue your work from last week, choose a method to stack the 8 models (7 from last week plus deep NN from this week), can you achieve a better result?
