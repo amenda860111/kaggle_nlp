@@ -73,6 +73,11 @@ https://www.kaggle.com/c/feedback-prize-2021
 ### Week 6 (Feb 20) NLP advanced topic
 - Homework 5 due
 - Online 3 hour class (9 am - 12 pm, Beijing time)
+- [Transformer paper](https://arxiv.org/pdf/1706.03762.pdf)
+- [Transformer model explained](https://jalammar.github.io/illustrated-transformer/)
+- [Transformer Python Tutorial]()
+- [Kaggle Strategy]()
+
 - Video for Week 6 release
 
 ## Part III: Kaggle notebook & group sessions
