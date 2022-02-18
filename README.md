@@ -77,7 +77,6 @@ https://www.kaggle.com/c/feedback-prize-2021
 - [Transformer model explained](https://jalammar.github.io/illustrated-transformer/)
 - [Transformer Python Tutorial](https://github.com/amenda860111/kaggle_nlp/blob/main/transformer_tutorial.ipynb)
 - [Kaggle Strategy](https://docs.google.com/presentation/d/1f6XY5kzXRCDkl08LVlJd8A0xZWtKjHSN_U-5cEA2lAM/edit#slide=id.gfbcf0bcd50_0_11)
-
 - Video for Week 6 release
 
 ## Part III: Kaggle notebook & group sessions
