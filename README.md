@@ -73,7 +73,7 @@ https://www.kaggle.com/c/feedback-prize-2021
 ### Week 6 (Feb 20) NLP advanced topic
 - Homework 5 due
 - Online 3 hour class (9 am - 12 pm, Beijing time)
-- [LSTM Python Tutorial](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_13_LSTM_tutorial.ipynb)
+- [LSTM Python Tutorial](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_13_LSTM.ipynb)
 - [Transformer paper](https://arxiv.org/pdf/1706.03762.pdf)
 - [Transformer model explained](https://jalammar.github.io/illustrated-transformer/)
 - [Transformer Python Tutorial](https://github.com/amenda860111/kaggle_nlp/blob/main/tutorial_14_transformer_tutorial.ipynb)
